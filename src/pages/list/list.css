@@ -1,11 +1,4 @@
 
-  .logo {
-    height: 32px;
-    max-width: 150px;
-    background-color: aliceblue;
-    margin: 15px 25px;
-  }
-  
   .content {
     height: calc(100vh - 118px);
     overflow-y: scroll;

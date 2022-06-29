@@ -49,7 +49,7 @@ const Main = (props) => {
       }}
       >
       <Sider collapsible collapsed={collapsed} onCollapse={(value) => setCollapsed(value)}>
-        <div className="logo" />
+        <div className="logo">YOU YU</div>
         <Menu theme="dark" defaultSelectedKeys={[props.location.pathname]} mode="inline" items={items} onClick={click}/>
       </Sider>
         <Layout className="site-layout">
