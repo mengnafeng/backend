@@ -1,0 +1,40 @@
+
+  .logo {
+    height: 32px;
+    max-width: 150px;
+    background-color: aliceblue;
+    margin: 15px 25px;
+  }
+  
+  .site-layout {
+    height: 100vh;
+    overflow-y: scroll;
+  }
+
+  
+  .ant-menu-root {
+    height: calc(100vh - 112px);
+    overflow-y: scroll;
+  }
+  
+  .header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: #fff;
+    padding: 0 20px;
+  }
+  
+  .user {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .user-name {
+    margin-left: 10px;
+  }
+  
+  .ant-table-body {
+    max-height: auto;
+  }
