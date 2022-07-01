@@ -3,6 +3,9 @@
 - 请求封装
 - node层加密
 
+#### 使用技术
+react node koa mobx
+
 #### 安装依赖
 
 ```
